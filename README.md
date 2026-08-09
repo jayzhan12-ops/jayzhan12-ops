@@ -1,4 +1,5 @@
-<img width="736" height="414" alt="Без названия (5)" src="https://github.com/user-attachments/assets/743428c0-c00f-40a6-87f0-3995106dfe13" />
+<img width="735" height="307" alt="Sheolgratha of the Dark Path, LAKE HURWITZ" src="https://github.com/user-attachments/assets/0f25edf1-178a-49af-8e6e-e89f7fc93911" />
+
 
 
 Hi! 
