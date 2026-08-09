@@ -7,6 +7,9 @@
   My name is Zhanggir(Jay), I'm from Kazakhstan. Currently a rising sophomore at Purdue University, majoring in Robotics Engineering Technology🎓 
         
   I'm a member of control team in Purdue IEEE Autonomous Kart Racing club, interested in autonomous vehicles, ROS2 programming, and deep tech 🏁 🎌
-      
+ 
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![ROS](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
     
 
