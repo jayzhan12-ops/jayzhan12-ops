@@ -1,21 +1,14 @@
-<div align="center">
-  
+<p align="center">
 <img width="736" height="201" alt="Samurai Jack" src="https://i.pinimg.com/1200x/2f/82/60/2f8260b08ec22797caf84f84bed34fdf.jpg" />
 </p>
 
   Hi! 😃
    
-  My name is Zhanggir(Jay), I'm from Kazakhstan. 
+  My name is Zhanggir(Jay), I'm from Kazakhstan. Rising sophomore @Purdue, West-Lafayette. 
+  
+  Robotics Engineering Technology. Member of Purdue IEEE Autonomous Kart Racing club.
  
-  Building things that work by themselves 🤖
-
-  🎓 I'm a Robotics student @ Purdue University, West Lafayette.
-
-  🏁 Member of Purdue IEEE Autonomous Kart Racing club
-
-  🤖 Interested in Machine Learning
-
-  📫 Feel free to reach me out Email | LinkedIn
+  Deeply interested in autonomous vehicles, ROS2 programming.
  
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
